@@ -18,7 +18,7 @@
     "require": {
         "php": ">=7.1.0",
         "predicthq/address-formatter-templates": "~1.0",
-        "symfony/yaml": "~3.0",
+        "symfony/yaml": "~4.0",
         "mustache/mustache": "~2.0"
     },
     "require-dev": {
