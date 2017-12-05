@@ -1,10 +1,11 @@
 <?php
 namespace PredictHQ\AddressFormatter\Test;
 
+use PHPUnit\Framework\TestCase;
 use PredictHQ\AddressFormatter\Formatter;
 use Symfony\Component\Yaml\Yaml;
 
-class TestCasesTest extends \PHPUnit_Framework_TestCase
+class TestCasesTest extends TestCase
 {
     public function testCountries()
     {
